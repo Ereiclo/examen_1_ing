@@ -1,0 +1,7 @@
+organization=orgereiclo
+projectKey=examen_1_ing
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29242
+dashboardUrl=https://sonarcloud.io/dashboard?id=examen_1_ing
+ceTaskId=AYD4rGgefH19f5W9ZZ2i
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYD4rGgefH19f5W9ZZ2i
